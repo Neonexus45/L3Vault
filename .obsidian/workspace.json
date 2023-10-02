@@ -1,0 +1,183 @@
+{
+  "main": {
+    "id": "184813bd5b197d87",
+    "type": "split",
+    "children": [
+      {
+        "id": "b9d4d52939844115",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b60d299a6afbcb4b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cours modèle structurels.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "284735bad3370e1c",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.14"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "aaa61d55d5fe16b8",
+    "type": "split",
+    "children": [
+      {
+        "id": "fdfa5d541875923b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b775ec6af3b2b33a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1246edbfc915c6ba",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3dceee5fd3e7903e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c2ee034c8091e656",
+    "type": "split",
+    "children": [
+      {
+        "id": "94a24925eed1c3a3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "444eea4dd7f18beb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Cours modèle structurels.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "499f325f204c8259",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Cours modèle structurels.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a44f877b46a51a75",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "81ae3a0bd7b4cd59",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Cours modèle structurels.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "284735bad3370e1c",
+  "lastOpenFiles": [
+    "Pasted image 20231002100459.png",
+    "Cours modèles comportementaux.md",
+    "Pasted image 20231002100245.png",
+    "Pasted image 20231002095751.png",
+    "Pasted image 20231002095559.png",
+    "Pasted image 20231002095516.png",
+    "Pasted image 20231002095315.png",
+    "Pasted image 20231002094848.png",
+    "Pasted image 20231002094837.png",
+    "Pasted image 20231002094408.png",
+    "Pasted image 20231002093754.png",
+    "Pasted image 20231002093742.png",
+    "Conception Orientée Objet SLA5IF02.md",
+    "Cours et Modules.md",
+    "Cours modèle structurels.md",
+    "2.1.1 Le langage.md",
+    "Logique.md",
+    "Accueil - L3 Ingénieur.md",
+    "Plan de révision.md"
+  ]
+}
